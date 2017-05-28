@@ -40,3 +40,16 @@ body {
   background-size: cover;
   height: 600px;
 }
+
+.page-wrapper {
+  padding-top: 5em;
+}
+
+.bio {
+  padding: 1.5em;
+  background: rgba(0, 0, 0, .3);
+}
+
+.img-wrapper {
+  padding: 4em 1.5em;
+}
