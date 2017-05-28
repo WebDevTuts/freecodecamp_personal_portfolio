@@ -101,3 +101,24 @@ img {
 .page-three .row + .row {
   margin-top: 3em;
 }
+
+.page-three h1 {
+  font-family: Lobster;
+  font-size: 5em;
+  margin-top: 0.2em;
+  margin-bottom: 0.9em;
+}
+
+.gallery-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.gallery-item h4 > a {
+  display: block;
+  margin: .75em 0 .25em;
+  font-size: 1.8em;
+  font-weight: 600;
+  color: white;
+}
