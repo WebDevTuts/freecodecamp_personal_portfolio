@@ -61,10 +61,6 @@ body {
   height: 600px;
 }
 
-.page-wrapper {
-  padding-top: 5em;
-}
-
 .bio {
   padding: 1.5em;
   background: rgba(0, 0, 0, .3);
