@@ -30,9 +30,13 @@ body {
 .page-one .btnList .btn {
   color: white;
   background: transparent;
-  width: 100px;
-  padding: 10px 20px;
+  width: 120px;
+  padding: 10px 0;
   margin: 20px 10px;
+}
+
+.page-one .btnList i {
+  margin-right: .25em;
 }
 
 .page-two {
