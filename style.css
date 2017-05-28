@@ -95,7 +95,7 @@ img {
   background: url("http://unsplash.com/photos/NORa8-4ohA0/download?force=true");
   background-size: cover;
   background-position: bottom;
-  padding: 5rem 0;
+  padding: 5em 0 8.5em;
 }
 
 .page-three .row + .row {
@@ -121,4 +121,17 @@ img {
   font-size: 1.8em;
   font-weight: 600;
   color: white;
+}
+
+footer {
+  margin-top: -50px;
+  height: 50px;
+  text-align: center;
+  background: rgba(0, 0, 0, .15);
+}
+
+footer p {
+  margin: 0;
+  font-size: 1em;
+  line-height: 50px;
 }
