@@ -97,3 +97,7 @@ img {
   background-position: bottom;
   padding: 5rem 0;
 }
+
+.page-three .row + .row {
+  margin-top: 3em;
+}
