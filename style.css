@@ -59,6 +59,7 @@ body {
   background: url("http://unsplash.com/photos/esCc1qx6TVw/download?force=true");
   background-size: cover;
   height: 600px;
+  padding: 5rem 0;
 }
 
 .bio {
@@ -80,6 +81,10 @@ body {
   font-size: 1.3em;
 }
 
+.page-two p:last-child {
+  margin-bottom: 0;
+}
+
 img {
   display: block;
   width: 100%;
@@ -90,4 +95,5 @@ img {
   background: url("http://unsplash.com/photos/NORa8-4ohA0/download?force=true");
   background-size: cover;
   background-position: bottom;
+  padding: 5rem 0;
 }
