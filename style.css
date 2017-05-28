@@ -1,7 +1,7 @@
 .nav-pills {
   font-family: Lobster;
   font-size: 1.7em;
-  background-color: black;
+  background-color: transparent;
 }
 
 body {
@@ -11,5 +11,6 @@ body {
 .page-one {
   background: url("http://unsplash.com/photos/C6duwascOEA/download?force=true");
   background-size: cover;
-  height: 700px;
+  height: 800px;
+  margin-top: -10%;
 }
