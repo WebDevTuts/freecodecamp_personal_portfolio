@@ -18,10 +18,19 @@ body {
   text-align: center;
 }
 
+.page-one h1 {
+  font-size: 5.5em;
+}
+
+.page-one h2 {
+  margin-top: 1.2em;
+  font-size: 1.6em;
+}
+
 .page-one .btnList .btn {
   color: white;
   background: transparent;
   width: 100px;
   padding: 10px 20px;
-  margin: 10px 10px;
+  margin: 20px 10px;
 }
