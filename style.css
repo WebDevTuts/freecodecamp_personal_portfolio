@@ -34,3 +34,9 @@ body {
   padding: 10px 20px;
   margin: 20px 10px;
 }
+
+.page-two {
+  background: url("http://unsplash.com/photos/esCc1qx6TVw/download?force=true");
+  background-size: cover;
+  height: 600px;
+}
