@@ -7,3 +7,9 @@
 body {
   background-color: black;
 }
+
+.page-one {
+  background: url("http://unsplash.com/photos/C6duwascOEA/download?force=true");
+  background-size: cover;
+  height: 700px;
+}
