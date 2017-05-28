@@ -39,6 +39,22 @@ body {
   margin-right: .25em;
 }
 
+.page-one .btnList i {
+  transition: color .3s ease-in-out;
+}
+
+.page-one .btnList a:hover #twitterIcon {
+  color: rgb(0, 172, 237);
+}
+
+.page-one .btnList a:hover #githubIcon {
+  color: rgb(102, 43, 129);
+}
+
+.page-one .btnList a:hover #linkedinIcon {
+  color: rgb(0, 119, 181);
+}
+
 .page-two {
   background: url("http://unsplash.com/photos/esCc1qx6TVw/download?force=true");
   background-size: cover;
